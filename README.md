@@ -10,4 +10,4 @@
 
 [苟晓芸的主页](https://rinto1.netlify.com/)
 
-[王翌莹的主页](https://github.com)
+[王翌莹的主页](https://github.com/balala123xiaolaodi)
