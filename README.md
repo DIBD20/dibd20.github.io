@@ -10,5 +10,4 @@
 
 [苟晓芸的主页](https://rinto1.netlify.com/)
 
-[王翌莹的主页]（https://www.who.int/）
-## 苟晓芸
+[王翌莹的主页](https://github.com)
