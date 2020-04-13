@@ -6,4 +6,5 @@
 
 [李佳春的主页](https://github.com/sculjc)
 
-[王翌莹的主页](https://www.baidu.com)
+[胡琦浠的主页](https://github.com/Huqixi)
+[苟晓芸的主页](https://github.com/gouxiaoyun123)
